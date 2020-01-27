@@ -1,7 +1,7 @@
 # DynamicInv
 Simple, up to date keep inventory/exp plugin
 
-##Permissions
+## Permissions
 Various permissions allow for very controlled flight. There are many configurations to find the right one for you!
 
 Permission | Description
