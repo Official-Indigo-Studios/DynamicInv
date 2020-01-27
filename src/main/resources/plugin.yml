@@ -1,0 +1,16 @@
+main: ltd.indigostudios.dynamicinv.DynamicInv
+name: DynamicInv
+version: 1.0
+author: TheBirmanator
+api-version: 1.14
+description: Permission based keep inventory and keep exp plugin
+permissions:
+  dynamicinv.*:
+    description: Gives access to all DynamicInv permisions
+    children:
+      dynamicinv.keepinv: true
+      dynamicinv.keepexp: true
+  dynamicinv.keepinv:
+    description: On death, allows player to keep all items in their inventory
+  dynamicinv.keepexp:
+    description: On death, allows player to keep all exp
