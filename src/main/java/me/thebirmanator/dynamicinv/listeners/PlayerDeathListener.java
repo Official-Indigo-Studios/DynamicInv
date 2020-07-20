@@ -1,4 +1,4 @@
-package ltd.indigostudios.dynamicinv;
+package me.thebirmanator.dynamicinv.listeners;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

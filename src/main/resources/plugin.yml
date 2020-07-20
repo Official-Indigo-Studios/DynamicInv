@@ -1,9 +1,14 @@
-main: ltd.indigostudios.dynamicinv.DynamicInv
+main: me.thebirmanator.dynamicinv.Main
 name: DynamicInv
 version: 1.0
 author: TheBirmanator
 api-version: 1.14
 description: Permission based keep inventory and keep exp plugin
+commands:
+  saveinv:
+    description: Save an inventory that you can load later on
+  loadinv:
+    description: Load a previously saved inventory
 permissions:
   dynamicinv.*:
     description: Gives access to all DynamicInv permisions
