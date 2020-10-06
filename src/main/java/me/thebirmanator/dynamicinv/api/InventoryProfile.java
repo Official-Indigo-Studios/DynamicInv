@@ -13,7 +13,8 @@ public class InventoryProfile {
 
     private UUID uuid;
     private Map<String, ItemStack[]> inventories;
-//TODO: do something with armour contents (they are not part of getContents()
+
+    //TODO: do something with armour contents (they are not part of getContents()
     public InventoryProfile(UUID uuid) {
         this.uuid = uuid;
         inventories = new HashMap<>();

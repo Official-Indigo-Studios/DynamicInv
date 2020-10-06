@@ -4,7 +4,6 @@ import me.thebirmanator.dynamicinv.api.InventoryProfile;
 import me.thebirmanator.dynamicinv.api.ProfileManager;
 import me.thebirmanator.dynamicinv.utils.PlayerUtils;
 import me.thebirmanator.dynamicinv.utils.Text;
-import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
